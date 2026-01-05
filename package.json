@@ -1,0 +1,21 @@
+{
+  "name": "withresolvers",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/withresolvers.js",
+  "types": "dist/withresolvers.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "with-resolvers",
+    "withResolvers",
+    "Promise.withResolvers",
+    "Promise",
+    "polyfill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.14.0"
+}
