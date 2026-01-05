@@ -1,7 +1,7 @@
 {
   "name": "withresolvers",
   "version": "1.0.4",
-  "description": "",
+  "description": "Promise.withResolvers polyfill for JavaScript",
   "main": "dist/withresolvers.js",
   "types": "dist/withresolvers.d.ts",
   "type": "module",
@@ -15,7 +15,16 @@
     "Promise",
     "polyfill"
   ],
-  "author": "",
+  "author": "zfangqijun",
   "license": "MIT",
-  "packageManager": "pnpm@10.14.0"
+  "packageManager": "pnpm@10.14.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfangqijun/withresolvers"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ]
 }
