@@ -1,6 +1,6 @@
 {
   "name": "withresolvers",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Promise.withResolvers polyfill for JavaScript",
   "main": "dist/withresolvers.js",
   "types": "dist/withresolvers.d.ts",
